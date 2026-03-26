@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Chng Hong Yi', description: '', imageURL: '' },
   social: {
     linkedin: 'NA',
     x: 'HongYi',
@@ -103,10 +103,10 @@ const CONFIG = {
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
+      company: 'Student',
       position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
+      from: 'NA',
+      to: 'NA',
       companyLink: 'https://example.com',
     },
   ],
@@ -120,16 +120,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'maris Stella High School (Primary)',
+      degree: 'Primary 6',
+      from: '2021',
+      to: '2026',
     },
     {
       institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      degree: 'NA',
+      from: 'NA',
+      to: 'NA',
     },
   ],
   publications: [
