@@ -86,7 +86,7 @@ const CONFIG = {
    
   ],
   experiences: [
-    {
+    
      'Code Monkey',
      'Science Buskers',
       'National Robotics Competition 2025',
@@ -94,7 +94,7 @@ const CONFIG = {
      'First LEGO League (FLL)',
     'Hwa Chong Infocomm Challenge (HCIC)',
      
-    },
+    
     
   ],
   certifications: [
