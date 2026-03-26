@@ -87,19 +87,21 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'NA',
-      position: 'Student',
-      from: 'Jan 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+     'Code Monkey',
+     'Science Buskers',
+      'National Robotics Competition 2025',
+     'Sony Toy Creation Competition 2025',
+     'First LEGO League (FLL)',
+    'Hwa Chong Infocomm Challenge (HCIC)',
+     
     },
     
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'NA',
+      body: 'NA',
+      year: 'NA',
       link: 'https://example.com',
     },
   ],
