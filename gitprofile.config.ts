@@ -79,20 +79,11 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Micro:BIT',
+    'Python',
+    'Scratch',
+    'LEGO Spike',
+   
   ],
   experiences: [
     {
@@ -102,13 +93,7 @@ const CONFIG = {
       to: 'Present',
       companyLink: 'https://example.com',
     },
-    {
-      company: 'NA',
-      position: 'NA',
-      from: 'NA',
-      to: 'NA',
-      companyLink: 'https://example.com',
-    },
+    
   ],
   certifications: [
     {
@@ -150,7 +135,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'CodeMasterHongYi', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
