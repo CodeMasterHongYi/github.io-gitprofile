@@ -85,12 +85,14 @@ const CONFIG = {
     'LEGO Spike',
   ],
   experiences: [
+    {
      'Code Monkey',
      'Science Buskers',
     'National Robotics Competition 2025',
      'Sony Toy Creation Competition 2025',
      'First LEGO League (FLL)',
     'Hwa Chong Infocomm Challenge (HCIC)',
+    },
   ],
   certifications: [
     {
