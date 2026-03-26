@@ -91,7 +91,7 @@ const CONFIG = {
      name: 'National Robotics Competition 2025',
      name: 'Sony Toy Creation Competition 2025',
      name: 'First LEGO League (FLL)',
-    name:  'Hwa Chong Infocomm Challenge (HCIC)',
+     name: 'Hwa Chong Infocomm Challenge (HCIC)',
     },
   ],
   certifications: [
