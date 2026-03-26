@@ -87,12 +87,8 @@ const CONFIG = {
   experiences: [
     {
      name: 'Code Monkey',
-     name: 'Science Buskers',
-     name: 'National Robotics Competition 2025',
-     name: 'Sony Toy Creation Competition 2025',
-     name: 'First LEGO League (FLL)',
-     name: 'Hwa Chong Infocomm Challenge (HCIC)',
-    },
+      name: 'Science Buskers',
+         },
   ],
   certifications: [
     {
