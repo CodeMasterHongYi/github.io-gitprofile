@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['CodeMasterHongYi/gitprofile', 'CodeMasterHongYi/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -96,15 +96,15 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'NA',
+      position: 'Student',
+      from: 'Jan 2021',
       to: 'Present',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Student',
-      position: 'Position',
+      company: 'NA',
+      position: 'NA',
       from: 'NA',
       to: 'NA',
       companyLink: 'https://example.com',
@@ -120,17 +120,12 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'maris Stella High School (Primary)',
+      institution: 'Maris Stella High School (Primary)',
       degree: 'Primary 6',
       from: '2021',
       to: '2026',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'NA',
-      from: 'NA',
-      to: 'NA',
-    },
+    
   ],
   publications: [
     {
@@ -220,7 +215,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/CodeMasterHongYi/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
