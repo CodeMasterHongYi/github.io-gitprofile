@@ -123,14 +123,14 @@ const CONFIG = {
       "Developed foundational programming skills through interactive coding activities, strengthening logical thinking and problem-solving abilities.",
   },
 ],
-  certifications: [
-    {
-      name: 'NA',
-      body: 'NA',
-      year: 'NA',
-      link: 'https://example.com',
-    },
-  ],
+ // certifications: [
+   // {
+    //  name: 'NA',
+    //  body: 'NA',
+    //  year: 'NA',
+   //   link: 'https://example.com',
+   // },
+ // ],
   educations: [
     {
       institution: 'Maris Stella High School (Primary)',
