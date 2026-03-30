@@ -81,23 +81,23 @@ const CONFIG = {
   achievements: [
   {
     title: "First Lego League (FLL) 2026",
-    description: "Collaborated in a team to design, build, and program a robot, applying engineering, coding, and creative problem-solving skills."
+    description: "Collaborated in a team to design, build, and program a robot, applying engineering, coding, and creative problem-solving skills.",
   },
   {
     title: "National Robotics Competition 2025",
-    description: "Designed and programmed a robot to complete competition challenges, demonstrating coding and teamwork skills."
+    description: "Designed and programmed a robot to complete competition challenges, demonstrating coding and teamwork skills.",
   },
   {
     title: "Sony Toy Creation Competition 2025",
-    description: "Designed and built an innovative toy, applying creativity, design thinking, and problem-solving skills."
+    description: "Designed and built an innovative toy, applying creativity, design thinking, and problem-solving skills.",
   },
   {
     title: "Science Buskers, Singapore Science Centre",
-    description: "Presented interactive science experiments to the public, enhancing communication, confidence, and scientific understanding."
+    description: "Presented interactive science experiments to the public, enhancing communication, confidence, and scientific understanding.",
   },
   {
     title: "Code Monkey, Singapore Science Centre",
-    description: "Developed foundational coding skills through interactive activities, strengthening logical thinking and problem-solving abilities."
+    description: "Developed foundational coding skills through interactive activities, strengthening logical thinking and problem-solving abilities.",
   },
 ],
  // certifications: [
