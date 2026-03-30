@@ -79,35 +79,25 @@ const CONFIG = {
     "Presentation",
   ],
   achievements: [
-   {
-    title: "Hwa Chong Infocomm Challenge (HCIC)",
-    description:
-      "Participated in robotics competition, developed problem-solving and teamwork skills.",
-  },
-    {
-    title: "First Lego League (FLL)",
-    description:
-      "Collaborated in a team to design, build, and program a robot, applying engineering, coding, and creative problem-solving in a competitive setting.",
+  {
+    title: "First Lego League (FLL) 2026",
+    description: "Collaborated in a team to design, build, and program a robot, applying engineering, coding, and creative problem-solving skills."
   },
   {
-    title: "National Robotics Competition",
-    description:
-      "Designed and programmed a robot as part of a team, applying engineering, coding, and problem-solving skills to overcome competition challenges.",
+    title: "National Robotics Competition 2025",
+    description: "Designed and programmed a robot to complete competition challenges, demonstrating coding and teamwork skills."
   },
-     {
+  {
     title: "Sony Toy Creation Competition 2025",
-    description:
-      "Conceptualized and built an innovative toy, demonstrating creativity, design thinking, and problem-solving through hands-on creation.",
+    description: "Designed and built an innovative toy, applying creativity, design thinking, and problem-solving skills."
   },
-     {
-    title: "Science Buskers",
-    description:
-      "Engaged the public by presenting hands-on science experiments, showcasing scientific concepts while developing confidence and communication skills.",
+  {
+    title: "Science Buskers, Singapore Science Centre",
+    description: "Presented interactive science experiments to the public, enhancing communication, confidence, and scientific understanding."
   },
-    {
-    title: "Code Monkey",
-    description:
-      "Developed foundational programming skills through interactive coding activities, strengthening logical thinking and problem-solving abilities.",
+  {
+    title: "Code Monkey, Singapore Science Centre",
+    description: "Developed foundational coding skills through interactive activities, strengthening logical thinking and problem-solving abilities."
   },
 ],
  // certifications: [
