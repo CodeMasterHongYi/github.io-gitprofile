@@ -55,7 +55,6 @@ const CONFIG = {
   social: {
     
     x: 'HongYi',
-    mastodon: 'NA',
     researchGate: '',
     youtube: '', // example: 'pewdiepie'
     medium: 'CodeMasterHongYi',
@@ -76,11 +75,11 @@ const CONFIG = {
   ],
   experiences: [
     'Code Monkey',
-     'Science Buskers',
+    'Science Buskers',
     'National Robotics Competition 2025',
-  'Sony Toy Creation Competition 2025',
-  'First LEGO League (FLL)',
-  'Hwa Chong Infocomm Challenge (HCIC)'
+    'Sony Toy Creation Competition 2025',
+    'First LEGO League (FLL)',
+    'Hwa Chong Infocomm Challenge (HCIC)',
   ],
   certifications: [
     {
