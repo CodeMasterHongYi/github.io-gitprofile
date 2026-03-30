@@ -78,52 +78,34 @@ const CONFIG = {
     "Logic Thinking",
     "Presentation",
   ],
-  experiences: [
+  achievements: [
    {
-    company: "Hwa Chong Infocomm Challenge (HCIC)",
-    position: "Participant",
-    from: "2026",
-    to: "2026",
+    title: "Hwa Chong Infocomm Challenge (HCIC)",
     description:
       "Participated in robotics competition, developed problem-solving and teamwork skills.",
   },
     {
-    company: "First Lego League (FLL)",
-    position: "Participant",
-    from: "2026",
-    to: "2026",
+    title: "First Lego League (FLL)",
     description:
       "Collaborated in a team to design, build, and program a robot, applying engineering, coding, and creative problem-solving in a competitive setting.",
   },
   {
-    company: "National Robotics Competition",
-    position: "Participant",
-    from: "2025",
-    to: "2025",
+    title: "National Robotics Competition",
     description:
       "Designed and programmed a robot as part of a team, applying engineering, coding, and problem-solving skills to overcome competition challenges.",
   },
      {
-    company: "Sony Toy Creation Competition 2025",
-    position: "Participant",
-    from: "2025",
-    to: "2025",
+    title: "Sony Toy Creation Competition 2025",
     description:
       "Conceptualized and built an innovative toy, demonstrating creativity, design thinking, and problem-solving through hands-on creation.",
   },
      {
-    company: "Science Buskers",
-    position: "Participant",
-    from: "2025",
-    to: "2025",
+    title: "Science Buskers",
     description:
       "Engaged the public by presenting hands-on science experiments, showcasing scientific concepts while developing confidence and communication skills.",
   },
     {
-    company: "Code Monkey",
-    position: "Participant",
-    from: "2025",
-    to: "2025",
+    title: "Code Monkey",
     description:
       "Developed foundational programming skills through interactive coding activities, strengthening logical thinking and problem-solving abilities.",
   },
