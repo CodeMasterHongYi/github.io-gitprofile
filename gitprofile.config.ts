@@ -73,7 +73,7 @@ const CONFIG = {
     'Scratch',
     'LEGO Spike',
   ],
-  experiences: [
+  participation: [
     
     'Code Monkey',
     'Science Buskers',
