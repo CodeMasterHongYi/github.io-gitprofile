@@ -68,18 +68,15 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-   {
-    name: "Programming",
-    keywords: ["Python", "Scratch", "Turtle Graphics"]
-  },
-  {
-    name: "Robotics",
-    keywords: ["Micro:bit", "LEGO Robotics"]
-  },
-  {
-    name: "Soft Skills",
-    keywords: ["Problem Solving", "Teamwork", "Creativity", "Logic Thinking", "Presentation"]
-  },
+  "Python",
+  "Micro:bit",
+    "Scratch",
+  "Turtle Graphics",
+  "LEGO Robotics",
+  "Problem Solving",
+    "Teamwork",
+    "Logic Thinking",
+    "Presentation",
   ],
   experiences: [
    {
