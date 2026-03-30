@@ -73,16 +73,56 @@ const CONFIG = {
     'Scratch',
     'LEGO Spike',
   ],
-  experience: [
+  experiences: [
+   {
+    company: "Hwa Chong Infocomm Challenge (HCIC)",
+    position: "Participant",
+    from: "2026",
+    to: "2026",
+    description:
+      "Participated in robotics competition, developed problem-solving and teamwork skills.",
+  },
     {
-    name: 'Code Monkey',
-    name: 'Science Busker',
-    name: 'National Robotics Competition 2025',
-    name: 'Sony Toy Creation Competition 2025',
-    name: 'First LEGO League (FLL)',
-    name: 'Hwa Chong Infocomm Challenge (HCIC)',
-    },
-    ],
+    company: "First Lego League (FLL)",
+    position: "Participant",
+    from: "2026",
+    to: "2026",
+    description:
+      "Collaborated in a team to design, build, and program a robot, applying engineering, coding, and creative problem-solving in a competitive setting.",
+  },
+  {
+    company: "National Robotics Competition",
+    position: "Participant",
+    from: "2025",
+    to: "2025",
+    description:
+      "Designed and programmed a robot as part of a team, applying engineering, coding, and problem-solving skills to overcome competition challenges.",
+  },
+     {
+    company: "Sony Toy Creation Competition 2025",
+    position: "Participant",
+    from: "2025",
+    to: "2025",
+    description:
+      "Conceptualized and built an innovative toy, demonstrating creativity, design thinking, and problem-solving through hands-on creation.",
+  },
+     {
+    company: "Science Buskers",
+    position: "Participant",
+    from: "2025",
+    to: "2025",
+    description:
+      "Engaged the public by presenting hands-on science experiments, showcasing scientific concepts while developing confidence and communication skills.",
+  },
+    {
+    company: "Code Monkey",
+    position: "Participant",
+    from: "2025",
+    to: "2025",
+    description:
+      "Developed foundational programming skills through interactive coding activities, strengthening logical thinking and problem-solving abilities.",
+  },
+],
   certifications: [
     {
       name: 'NA',
