@@ -74,13 +74,12 @@ const CONFIG = {
     'LEGO Spike',
   ],
   experience: {
-  name: 'Code Monkey',
-  name: 'Science Busker',
-  name: 'National Robotics Competition 2025',
-  name: 'Sony Toy Creation Competition 2025',
- name: 'First LEGO League (FLL)',
-    name: 'Hwa Chong Infocomm Challenge (HCIC)',
-
+  'Code Monkey',
+  'Science Busker',
+  'National Robotics Competition 2025',
+  'Sony Toy Creation Competition 2025',
+  'First LEGO League (FLL)',
+  'Hwa Chong Infocomm Challenge (HCIC)',
     },
   
   certifications: [
