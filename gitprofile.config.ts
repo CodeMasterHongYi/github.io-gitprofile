@@ -73,7 +73,7 @@ const CONFIG = {
     'Scratch',
     'LEGO Spike',
   ],
-  competition: {
+  experience: {
   name: 'Code Monkey',
   name: 'Science Busker',
   name: 'National Robotics Competition 2025',
