@@ -53,24 +53,14 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of Chng Hong Yi', description: '', imageURL: '' },
   social: {
-    linkedin: 'NA',
+    
     x: 'HongYi',
     mastodon: 'NA',
     researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
     youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
     medium: 'CodeMasterHongYi',
     dev: 'CodeMasterHongYi',
     stackoverflow: '', // example: '1/jeff-atwood'
-    discord: '',
-    telegram: '',
-    website: 'https://www.CodeMasterHongYi.com',
     phone: '',
     email: '',
   },
@@ -85,10 +75,12 @@ const CONFIG = {
     'LEGO Spike',
   ],
   experiences: [
-    {
-     name: 'Code Monkey',
-      name: 'Science Buskers',
-         },
+    'Code Monkey',
+     'Science Buskers',
+    'National Robotics Competition 2025'
+  'Sony Toy Creation Competition 2025'
+  'First LEGO League (FLL)'
+  'Hwa Chong Infocomm Challenge (HCIC)'
   ],
   certifications: [
     {
