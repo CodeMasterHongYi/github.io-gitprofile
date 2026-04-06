@@ -114,6 +114,20 @@ const CONFIG = {
     to: "2025",
     description: "Developed foundational coding skills through interactive activities, strengthening logical thinking and problem-solving abilities.",
   },
+     {
+    company: "National Mathemathical Olympiad of Singapore, NUS high School",
+    position: "Honourable Mention",
+    from: "2025",
+    to: "2025",
+    description: "Awarded Honourable Mention at the National Mathematical Olympiad of Singapore (NMOS), recognizing strong problem-solving ability among thousands of participants nationwide.",
+  },
+       {
+    company: "Raffles Mathemathical Olympiad 2025, Raffles Institution",
+    position: "Participant",
+    from: "2025",
+    to: "2025",
+    description: "Selected to represent school; gained exposure to Olympiad‑style mathematics and sharpened creative problem‑solving abilities.",
+  },
 ],
  // certifications: [
    // {
