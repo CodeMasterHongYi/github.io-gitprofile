@@ -124,9 +124,11 @@ const CONFIG = {
     'Turtle Graphics',
     'LEGO Robotics',
     'Problem Solving',
-    'Teamwork',
+    'Mathematical Problem-Solving Skills',
+    'Analytical Thinking',
     'Logic Thinking',
     'Presentation',
+    'Teamwork',
   ],
   experiences: [
     {
