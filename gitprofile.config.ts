@@ -53,10 +53,12 @@ const CONFIG = {
               - Conducted hands-on DNA extraction using strawberries
               - Learned basic concepts of genetics and cell components
               - Demonstrated the process to engage and educate the public
+          
           Project: Cell Structure & Forces (Bubble Activity) – Singapore Science Buskers
               - Explored cell structure concepts through bubble experiments
               - Learned about surface tension and forces in a fun, visual way
               -  Explained scientific concepts interactively to visitors
+          
           Project: Hydraulic Excavator Toy – Sony Creative Toy Award
               - Designed and built a functional hydraulic excavator model
               - Used recycled materials (cardboard, syringes) for construction
