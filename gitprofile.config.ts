@@ -193,9 +193,7 @@ const CONFIG = {
       from: '2025',
       to: '2025',
       description:
-        '- Presented and demonstrated project to visitors',
-        '- Explained concepts and answered questions',
-        '- Engaged audience during showcase',
+        'Presented and demonstrated my project at a showcase booth, explaining concepts and engaging visitors.'
     },
   ],
   // certifications: [
