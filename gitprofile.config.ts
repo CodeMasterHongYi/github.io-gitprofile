@@ -102,7 +102,6 @@ const CONFIG = {
                         - 2026: Representing Maris Stella High School in upcoming NSG
                         - 2025: Won Silver and Bronze medals (Green Tip Junior Category)
                         
-
                         Han Foundation Youth Taekwondo Championship (March 2026)
                         - Won Gold Medal at Green Tip Senior Category`,
           imageUrl: 'https://i.ibb.co/tPpL09S4/taekwondo.png',
