@@ -53,11 +53,11 @@ const CONFIG = {
               - Conducted hands-on DNA extraction using strawberries
               - Learned basic concepts of genetics and cell components
               - Demonstrated the process to engage and educate the public
-              - Cell Structure & Forces (Bubble Activity) – Singapore Science Buskers
+          Project: Cell Structure & Forces (Bubble Activity) – Singapore Science Buskers
               - Explored cell structure concepts through bubble experiments
               - Learned about surface tension and forces in a fun, visual way
               -  Explained scientific concepts interactively to visitors
-              - Hydraulic Excavator Toy – Sony Creative Toy Award
+          Project: Hydraulic Excavator Toy – Sony Creative Toy Award
               - Designed and built a functional hydraulic excavator model
               - Used recycled materials (cardboard, syringes) for construction
               - Applied basic engineering and hydraulic principles
@@ -186,6 +186,16 @@ const CONFIG = {
       to: '2025',
       description:
         'Selected to represent school; gained exposure to Olympiad‑style mathematics and sharpened creative problem‑solving abilities.',
+    },
+    {
+      company: 'IMDA Digital for Life',
+      position: 'Booth/Project Presenter',
+      from: '2025',
+      to: '2025',
+      description:
+        '- Presented and demonstrated project to visitors',
+        '- Explained concepts and answered questions',
+        '- Engaged audience during showcase',
     },
   ],
   // certifications: [
