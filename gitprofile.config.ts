@@ -201,6 +201,12 @@ const CONFIG = {
       from: '2021',
       to: '2026',
     },
+    {
+      institution: 'Maris Stella High School (Primary)',
+      degree: 'Primary 5 (Total AL Score 10)',
+      from: '2021',
+      to: '2025',
+    },
   ],
   // publications: [
   //  {
