@@ -33,7 +33,7 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Edusave Awards',
+          title: 'Academic & Leadership',
           description: `
               - Edusave Good Progress Award 2025
               - Edusave Certificate of Academic Achivement 2025
