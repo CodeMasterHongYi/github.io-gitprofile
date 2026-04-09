@@ -35,12 +35,15 @@ const CONFIG = {
         {
           title: 'Academic & Leadership',
           description: `
+              Edusave Awards
               - Edusave Good Progress Award 2025
               - Edusave Certificate of Academic Achivement 2025
               - CCC - CDC Education Merit Award 2024
               - Edusave Certificate of Academic Achivement 2024
               - CCC - CDC Education Merit Award 2023
               - Edusave Certificate of Academic Achivement 2023
+              
+               Leadership Assignments
               - CCE Advocate Student Leader 2024 (Pri 4), 2025 (Pri 5) & 2026 (Pri 6)
               - Taekwondo CCA Student Leader 2025 & 2026
 
