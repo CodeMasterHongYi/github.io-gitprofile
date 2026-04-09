@@ -41,6 +41,8 @@ const CONFIG = {
               - Edusave Certificate of Academic Achivement 2024
               - CCC - CDC Education Merit Award 2023
               - Edusave Certificate of Academic Achivement 2023
+              - CCE Advocate (Student Leader) 2025 & 2026
+              - Taekwondo CCA Student Leader 2025 & 2026
 
             `,
           imageUrl: 'https://i.ibb.co/7N61KyNR/edusave.png',
