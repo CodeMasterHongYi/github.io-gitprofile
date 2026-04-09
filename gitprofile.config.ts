@@ -36,11 +36,11 @@ const CONFIG = {
           title: 'Edusave Awards',
           description: `
               - Edusave Good Progress Award 2025
-              - Edusave Cerficiate of Academic Achivement 2025
+              - Edusave Certificate of Academic Achivement 2025
               - CCC - CDC Education Merit Award 2024
-              - Edusave Cerficiate of Academic Achivement 2024
+              - Edusave Certificate of Academic Achivement 2024
               - CCC - CDC Education Merit Award 2023
-              - Edusave Cerficiate of Academic Achivement 2023
+              - Edusave Certificate of Academic Achivement 2023
 
             `,
           imageUrl: 'https://i.ibb.co/7N61KyNR/edusave.png',
@@ -170,7 +170,7 @@ const CONFIG = {
         'Developed foundational coding skills through interactive activities, strengthening logical thinking and problem-solving abilities.',
     },
     {
-      company: 'National Mathemathical Olympiad of Singapore, NUS high School',
+      company: 'National Mathematical Olympiad of Singapore, NUS high School',
       position: 'Honourable Mention',
       from: '2025',
       to: '2025',
@@ -178,7 +178,7 @@ const CONFIG = {
         'Awarded Honourable Mention at the National Mathematical Olympiad of Singapore (NMOS), recognizing strong problem-solving ability among thousands of participants nationwide.',
     },
     {
-      company: 'Raffles Mathemathical Olympiad 2025, Raffles Institution',
+      company: 'Raffles Mathematical Olympiad 2025, Raffles Institution',
       position: 'Participant',
       from: '2025',
       to: '2025',
