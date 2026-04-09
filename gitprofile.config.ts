@@ -197,7 +197,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Maris Stella High School (Primary)',
-      degree: 'Primary 6 (Term 1 Total AL Score AL5',
+      degree: 'Primary 6 (Term 1 Total AL Score AL5)',
       from: '2021',
       to: '2026',
     },
