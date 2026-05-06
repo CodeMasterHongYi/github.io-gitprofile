@@ -104,8 +104,8 @@ const CONFIG = {
           title: ' Sports - Taekwondo Achievements',
           description: `National School Games (NSG) Taekwondo Poomsae (2024, 2025 and 2026) 
                         - Active participant in inter-school national competitions
-                        - 2026: Representing Maris Stella High School in upcoming NSG
-                        - 2025: Won Silver and Bronze medals (Green Tip Junior Category)
+                        - 2026: Won Gold and Silver (Yellow Green tip Senior Division Dategory)
+                        - 2025: Won Silver and Bronze medals (Green Tip Junior Division Category)
                         
                         Han Foundation Youth Taekwondo Championship (March 2026)
                         - Won Gold Medal at Green Tip Senior Category`,
