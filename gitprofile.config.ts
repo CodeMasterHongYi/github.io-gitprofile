@@ -141,6 +141,14 @@ const CONFIG = {
     'Teamwork',
   ],
   experiences: [
+     {
+      company: 'Hwa Chong Info-communications Challenge (HCIC)',
+      position: 'Result pending release in June ',
+      from: '2026',
+      to: '2026',
+      description:
+        'Applied Python programming syntax, logical algorithms, and robotics principles to solve complex, timed computational thinking challenges.',
+    },
     {
       company: 'First Lego League (FLL)',
       position: 'Participant',
