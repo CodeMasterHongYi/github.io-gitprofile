@@ -108,8 +108,8 @@ const CONFIG = {
           title: ' Sports - Taekwondo Achievements',
           description: `National School Games (NSG) Taekwondo Poomsae (2024, 2025 and 2026) 
                         - Active participant in inter-school national competitions
-                        - 2026: Won Gold and Silver (Yellow Green tip Senior Division Dategory)
-                        - 2025: Won Silver and Bronze medals (Green Tip Junior Division Category)
+                        - 2026: Won Gold (Team) and Silver (Individual) medals - Yellow Green Tip Senior Division Category
+                        - 2025: Won Silver (Team) and Bronze (Individual) medals - Yellow Green Tip Junior Division Category
                         
                         Han Foundation Youth Taekwondo Championship (March 2026)
                         - Won Gold Medal at Green Tip Senior Category`,
