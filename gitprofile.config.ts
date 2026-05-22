@@ -88,7 +88,11 @@ const CONFIG = {
         },
         {
           title: ' Coding and Robotics',
-          description: `First Lego League (2026) 
+          
+          description: `Hwa Chong Info-communications Challenge (HCIC)
+                        - Represented primary school in the HCIC on 21 May 2026. Result pending release in June. 
+                        
+                        First Lego League (2026) 
                          - Represented The Young Maker in First Lego League Competition
 
                         National Robotics Challenge (NRC) (2025)
