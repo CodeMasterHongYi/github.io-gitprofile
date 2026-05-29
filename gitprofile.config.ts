@@ -90,7 +90,8 @@ const CONFIG = {
           title: ' Coding and Robotics',
           
           description: `Hwa Chong Info-communications Challenge (HCIC)
-                        - Represented primary school in the HCIC on 21 May 2026. Result pending release in June. 
+                        - Represented primary school in the HCIC on 21 May 2026.
+                        - Awarded Gold
                         
                         First Lego League (2026) 
                          - Represented The Young Maker in First Lego League Competition
@@ -143,7 +144,7 @@ const CONFIG = {
   experiences: [
      {
       company: 'Hwa Chong Info-communications Challenge (HCIC)',
-      position: 'Gold ',
+      position: 'Gold',
       from: '2026',
       to: '2026',
       description:
@@ -225,7 +226,7 @@ const CONFIG = {
   educations: [
     {
       institution: 'Maris Stella High School (Primary)',
-      degree: 'Primary 6 (Term 1 Total AL Score AL5)',
+      degree: 'Primary 6 (Term 2 AL7)',
       from: '2021',
       to: '2026',
     },
