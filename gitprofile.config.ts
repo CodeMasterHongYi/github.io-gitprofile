@@ -143,7 +143,7 @@ const CONFIG = {
   experiences: [
      {
       company: 'Hwa Chong Info-communications Challenge (HCIC)',
-      position: 'Result pending release in June ',
+      position: 'Gold ',
       from: '2026',
       to: '2026',
       description:
